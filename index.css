@@ -1,0 +1,26 @@
+body {
+  text-align:center;
+}
+
+h1 {
+  font-family:Sans-serif;
+  font-size:50px;
+}
+
+h3 {
+  color:grey;
+}
+
+#image {
+  height:400px;
+  max-width:100%;
+}
+
+#img-caption {
+  font-family:Sans-serif;
+}
+
+
+p {
+  font-family:helvetika;
+}
